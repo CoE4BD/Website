@@ -1,24 +1,21 @@
 #Bradley (Brad) S. Rubin, PhD
-
-. | . |
----------------------------- | :----------: |
+###Director, Center of Excellence for Big Data & Honeywell Fellow in Global Technology Management
+| | |
+|:--|:-:|
 ![Brad Rubin](http://www.stthomas.edu/media/engineeringsoftware/faculty/Rubin_Brad_full.jpg)|[Graduate Programs in Software](http://www.stthomas.edu/gradsoftware/default.html)<br>[Center of Excellence for Big Data](http://www.stthomas.edu/coe4bd)<br>[School of Engineering](http://www.stthomas.edu/engineering/)<br>[University of St. Thomas](http://www.stthomas.edu)<br><bsrubin@stthomas.edu><br>[Twitter: @bradrubin](http://twitter.com/bradrubin)<br>651-962-5506<br>2115 Summit Avenue, OSS-301<br>St. Paul, MN 55105|
 
 Associate Professor, teaching and research in graduate software engineering topics in big data architecture, computer security, advanced computer security, information retrieval, software analysis and design, and computer networking protocols.
 
 ## Current Courses
 
-#### Fall 2014
+#### Fall 2017
 
-* SEIS635 Software Analysis and Design
 * SEIS720 Computer Security
-* SEIS736 Big Data Architecture
+* SEIS736 Big Data Architecture (2 sections)
 
-#### Spring 2014
+#### Spring 2018
 
-* [SEIS635 Software Analysis and Design](Storage/Syllabi/SEIS635s Software Analysis and Design Syllabus.pdf)
-* [SEIS721 Advanced Computer Security](Storage/Syllabi/SEIS721 Advanced Computer Security Syllabus.pdf)
-* [SEIS736 Big Data Architecture](Storage/Syllabi/SEIS736 Big Data Architecture Syllabus.pdf)
+* On sabbatical: Visiting Research Scholar, North Carolina State University / North Carolina Institute for Climate Studies, Asheville, NC
 
 ## Education
 
