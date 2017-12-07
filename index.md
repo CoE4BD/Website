@@ -12,6 +12,7 @@ Associate Professor, teaching and research in graduate software engineering topi
 
 * SEIS720 Computer Security
 * SEIS736 Big Data Architecture (2 sections)
+* SEIS785 Programming for Data Science
 
 #### Spring 2018
 
@@ -81,11 +82,15 @@ Rubin, B.S., ["Microprocessor Controlled Equipment Monitoring System,"](Storage/
 
 ## Press
 
-["Navigating the Technology Galaxies,"](http://tcbmag.com/Industries/Technology/Navigating-The-Technology-Galaxies) interview in Twin Cities Business, June 20, 2014
+["Landing a Top Job in 2017,"](https://vimeo.com/user14179445/review/216511893/253f05cafe) WCCO TV Interview, May 6, 2017
+
+["Tech Jobs 2017,"](https://vimeo.com/user14179445/review/211332822/17b837879c) WCCO Radio Interview, April 2, 2017
+
+["Navigating the Technology Galaxies,"](http://tcbmag.com/Industries/Technology/Navigating-The-Technology-Galaxies) Twin Cities Business Interview, June 20, 2014
 
 ["School of Engineering Announces New Master of Science Program in Data Science,"](http://www.stthomas.edu/news/school-engineering-announces-new-master-science-program-data-science/) UST Press Release, June 11, 2014
 
-["Seven Things to Know About Hadoop,"](http://www.techopedia.com/2/30123/trends/big-data/7-things-to-know-about-hadoop) interview in Technopedia, April 7, 2014
+["Seven Things to Know About Hadoop,"](http://www.techopedia.com/2/30123/trends/big-data/7-things-to-know-about-hadoop) Technopedia Interview, April 7, 2014
 
 ["Graduate Programs in Software Launches Center of Excellence for Big Data,"](http://www.stthomas.edu/news/big-data/) UST Press Release, April 18, 2012
 
@@ -94,11 +99,11 @@ Rubin, B.S., ["Microprocessor Controlled Equipment Monitoring System,"](Storage/
 ["Computer Security Class Immensely Popular,"](Storage/Press/UofMComputerSecurityClass.pdf) in U of Minnesota ECE Department Signals, Spring 2003
 
 ["Wireless Poised to Go Mainstream,"](Storage/Press/Techlink_Central.pdf)
-interview in TechLink, May 11, 2002
+TechLink Interview, May 11, 2002
 
-["Tapping Into a Wireless World,"](http://articles.latimes.com/2002/feb/11/business/fi-wireless11) interview in the Los Angeles Times, February 11, 2002
+["Tapping Into a Wireless World,"](http://articles.latimes.com/2002/feb/11/business/fi-wireless11) Los Angeles Times Interview, February 11, 2002
 
-["Snoop Stopper,"](Storage/Press/2001 Snoop Stopper.pdf) interview in the St. Paul Pioneer Press, December 23, 2001
+["Snoop Stopper,"](Storage/Press/2001 Snoop Stopper.pdf) St. Paul Pioneer Press Interview, December 23, 2001
 
 ["Imation to develop Jiro Technology for Sun storage products,"](http://searchstorage.techtarget.com/news/201547/Imation-to-develop-Jiro-Technology-for-Sun-storage-products) SearchStorage, May 4, 2000
 
@@ -106,9 +111,9 @@ interview in TechLink, May 11, 2002
 
 ["Final Exams Loom for Holographic Memory,"](http://www.eetimes.com/document.asp?doc_id=1139943) EE Times, August 31, 1999
 
-"Optical Storage: Devices and Applications," interview in System/3X &amp; AS World, September 1989
+"Optical Storage: Devices and Applications," System/3X &amp; AS World Interview, September 1989
 
-["Visions for Optical Storage,"](Storage/Press/1989 Visions for Optical Storage.pdf) interview in News 3X/400 Magazine, September 1989
+["Visions for Optical Storage,"](Storage/Press/1989 Visions for Optical Storage.pdf) News 3X/400 Magazine Interview, September 1989
 
 ## Patents
 
